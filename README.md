@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayantha BasnayakaSunera</h1>
+<h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **Mern Stack , Java**
