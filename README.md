@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
-<center>![terminal](https://github.com/Sunera9/Shantha-Motors/assets/99312516/0d60a484-3e09-4dae-be1c-e8c42bb92949)
-</center>
+![terminal](https://github.com/Sunera9/Shantha-Motors/assets/99312516/0d60a484-3e09-4dae-be1c-e8c42bb92949)
+
 
 
 - 🌱 I’m currently learning **Mern Stack , Java**
