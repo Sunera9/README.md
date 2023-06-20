@@ -1,4 +1,7 @@
-## Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  
+<div style="text-align: center;">
+  <h2>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
+</div>
+
 <div align="center">
   <img src="https://github.com/Sunera9/Sunera9/assets/99312516/e4ca2a8a-6573-41ad-8d9a-cd743c6c764a" alt="Terminal Screenshot">
 </div>
