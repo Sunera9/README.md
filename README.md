@@ -11,6 +11,9 @@
 <p align="left">
 </p>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
