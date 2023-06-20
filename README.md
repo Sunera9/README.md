@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
-
-
-
-![terminal (1)](https://github.com/Sunera9/Sunera9/assets/99312516/e4ca2a8a-6573-41ad-8d9a-cd743c6c764a)
-
 <div align="center">
   <img src="https://github.com/Sunera9/Sunera9/assets/99312516/e4ca2a8a-6573-41ad-8d9a-cd743c6c764a" alt="Terminal Screenshot">
 </div>
