@@ -18,6 +18,7 @@
 <a href="https://twitter.com/Sunera_Kai" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
 </a>
+<img align='right' src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="230">
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
