@@ -14,6 +14,10 @@
 <a href="https://www.linkedin.com/in/mayantha-basnayaka/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+<a href="https://twitter.com/Sunera_Kai" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
+</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
