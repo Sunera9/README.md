@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
 
-<center>
-![terminal](https://github.com/Sunera9/Sunera9/assets/99312516/6171ff6b-74d9-4a4a-9a95-15058c951f4f).
-</center>
 
 
+![terminal (1)](https://github.com/Sunera9/Sunera9/assets/99312516/e4ca2a8a-6573-41ad-8d9a-cd743c6c764a)
+
+<div style="text-align: center;">
+  <img src="https://github.com/Sunera9/Sunera9/assets/99312516/e4ca2a8a-6573-41ad-8d9a-cd743c6c764a" alt="Terminal Screenshot">
+</div>
 
 - 🌱 I’m currently learning **Mern Stack , Java**
 
