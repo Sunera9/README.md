@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayantha Sunera Basnayaka</h1>
-![terminal](https://github.com/Sunera9/Shantha-Motors/assets/99312516/0d60a484-3e09-4dae-be1c-e8c42bb92949)
+
+![terminal](https://github.com/Sunera9/Sunera9/assets/99312516/6171ff6b-74d9-4a4a-9a95-15058c951f4f)
 
 
 
